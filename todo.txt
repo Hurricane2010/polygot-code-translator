@@ -1,0 +1,16 @@
+- Improve chunking methods, and take into account max chunking limit x
+- Add correction/validation agent to make sure code is viable x
+- Add judging agent to use metrics and score the conversion to summerize the output
+- Write testcases and execute within environment
+    - AI should be able to summerize where the model struggled to translate (language-sepcific libraries, tools, problems, etc)
+    - Basic research or alternatives that could be used 
+- Use different agents to break up the files and process them simultaniously x
+
+
+2nd
+- Upgrade python from older versions to newer versions (could also do other languages)
+    - Upgrade dependancy packages
+    - Secondary agent for resarch and context collection
+    - Should be reversible
+- Add judging agent to use metrics and score the conversion to summerize the output
+- Should be able to take basic instructions and custom parameters
