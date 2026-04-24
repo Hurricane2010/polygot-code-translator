@@ -135,10 +135,10 @@ From the project todo list — items completed during the internship are marked:
 - [x] Correction and validation agent (LintService)
 - [x] Parallel chunk processing
 - [x] Python version upgrade/downgrade pipeline
-- [ ] Judging agent — metric-based scoring of translation quality
-- [ ] AI identification of language-specific library failures and suggested alternatives
-- [ ] Test case generation and execution within the sandbox
-- [ ] Custom parameters and natural language instructions per translation run
+- [X] Judging agent — metric-based scoring of translation quality
+- [X] AI identification of language-specific library failures and suggested alternatives
+- [X] Test case generation and execution within the sandbox
+- [X] Custom parameters and natural language instructions per translation run
 - [ ] Dependency package upgrade support for version migrations
 
 ---
