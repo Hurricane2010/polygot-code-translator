@@ -145,7 +145,6 @@ From the project todo list — items completed during the internship are marked:
 
 ## Notes
 
-- The `.env` file containing your OpenAI API key should never be committed — it is included in `.gitignore`
 - Java output is automatically wrapped in a `TranslatedProgram` class with a `main` method for valid compilation
 - Very large files are handled by the token-aware chunker which splits on approximately 4,000 tokens per chunk
 - The AI overview report is generated from a single prompt comparing the full original and translated code — for very large files this may approach context limits
